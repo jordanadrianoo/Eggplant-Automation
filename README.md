@@ -3,4 +3,4 @@ This repo will track various tools used throughout eggplant. licensing will need
 
 ## Download
 
- - [Eggplant Homepage](https://www.eggplantsoftware.com/eggplant-functional-downloads)
+ - [Eggplants Homepage](https://www.eggplantsoftware.com/eggplant-functional-downloads)
