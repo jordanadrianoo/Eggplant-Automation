@@ -2,6 +2,17 @@
 This repo will track various tools used throughout eggplant. licensing will need to be authorized.
 
 ## Functions
+```
+ Exit Handler
+ Pause
+ Log
+ LogSuccess
+ LogError
+ LogWarning
+ Click 
+ Double Click 
+ etc.
+```
 
 ## Download 
  - [Eggplant Homepage](https://www.eggplantsoftware.com/eggplant-functional-downloads)
