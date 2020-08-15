@@ -11,3 +11,5 @@ set mylist to ["hello","world","yes","no"]
 put ["hello","world","yes","no"] into mylist
 
 imagefound()
+
+## If statements
