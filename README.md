@@ -13,3 +13,5 @@ put ["hello","world","yes","no"] into mylist
 imagefound()
 
 ## If statements
+```
+If (ImageFound(Any_Image.jpg)
