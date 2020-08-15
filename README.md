@@ -5,7 +5,7 @@ This repo will track various tools used throughout eggplant. licensing will need
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-| coming                                       | soon                                                               |
+|  Click <Image.jpg>                           |  Clicks any image passed into it                                   |
 
 ```
  Exit Handler
