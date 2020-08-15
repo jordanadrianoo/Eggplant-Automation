@@ -15,3 +15,5 @@ imagefound()
 ## If statements
 ```
 If (ImageFound(Any_Image.jpg)
+
+End If
