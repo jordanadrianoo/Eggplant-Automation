@@ -1,5 +1,5 @@
 # Eggplant-Automation
-This repo will track various tools used throughout eggplant. licensing will need to be authorized.
+This repo will list and demonstrated the basic of eggplant. In addition, hand made functions will also be listed within the repository. **Warning:** Eggplant is an enterprise tool that will need a license to use. Licenses can be bought on eggplants webpage.
 
 ## Functions
 
