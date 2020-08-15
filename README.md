@@ -5,10 +5,6 @@ This repo will track various tools used throughout eggplant. licensing will need
 
 ## Download 
  - [Eggplant Homepage](https://www.eggplantsoftware.com/eggplant-functional-downloads)
- 
-
-
-imagefound()
 
 ## If statements
 ```
@@ -20,3 +16,4 @@ Log "The image was not found."
 
 End If
 ```
+
