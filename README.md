@@ -2,6 +2,11 @@
 This repo will track various tools used throughout eggplant. licensing will need to be authorized.
 
 ## Functions
+
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+| coming                                       | soon                                                               |
+
 ```
  Exit Handler
  Pause
@@ -32,3 +37,5 @@ End If
 ```
 Put ["Apple","Pear","Peach","Orange","Coconut"] into myList
 ```
+
+
