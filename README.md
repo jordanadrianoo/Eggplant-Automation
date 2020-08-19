@@ -8,6 +8,7 @@ This repo will list and demonstrated the basic of eggplant. In addition, hand ma
 |  Click <**Image.jpg**>                       |  Clicks any image passed into it                                   |
 |  DoubleClick <**Image.jpg**>                 |  Double Clicks any image passed into it                            |
 |  Wait <**Seconds**>                          |  Will wait any amount of seconds before continuing                 |
+|  ImageFound<**Image.jpg**>>                  |  Returns a true or false statement if image was found              |
 
 ```
  Exit Handler
