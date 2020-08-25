@@ -34,7 +34,6 @@ If (ImageFound(Any_Image.jpg)
 Log "The image was found."
 Else
 Log "The image was not found."
-
 End If
 ```
 
@@ -42,5 +41,4 @@ End If
 ```
 Put ["Apple","Pear","Peach","Orange","Coconut"] into myList
 ```
-
 
