@@ -11,6 +11,7 @@ This repo will list and demonstrated the basic of eggplant. In addition, hand ma
 |  ImageFound<**Image.jpg**>>                  |  Returns a true or false statement if image was found              |
 
 
+
 ```
  Exit Handler
  Pause
