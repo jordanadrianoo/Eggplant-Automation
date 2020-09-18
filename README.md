@@ -39,6 +39,4 @@ End If
 Put ["Apple","Pear","Peach","Orange","Coconut"] into myList
 ```
 
-
-
-                         https://drive.google.com/file/d/1wPRojmv516b_Nd5rjj_NlybDp4zixyRb/view?usp=sharing                          
+                      
