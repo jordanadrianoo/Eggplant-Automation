@@ -39,5 +39,4 @@ End If
 Put ["Apple","Pear","Peach","Orange","Coconut"] into myList
 ```
 
-
                     
