@@ -17,6 +17,7 @@ This repo will list and demonstrated the basic of eggplant. In addition, hand ma
  LogError
  LogWarning
  Click 
+ RighClick
  Double Click 
  etc.
 ```
