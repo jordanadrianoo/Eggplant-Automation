@@ -19,6 +19,7 @@ This repo will list and demonstrated the basic of eggplant. In addition, hand ma
  Click 
  RighClick
  Double Click 
+ wait()
  etc.
 ```
 ## Download 
